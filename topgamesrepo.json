@@ -34,20 +34,6 @@
             "arduboy": ""
         },
 		{
-            "title": "Ardynia",
-            "description": "Jeu à la Zelda",
-			"sourceUrl": "http://www.city41.games/ardynia/",
-            "author": "city41",
-            "binaries": [
-                {
-                    "title": "Ardynia",
-                    "filename": "https://raw.githubusercontent.com/PedroGent/TopArduboyGames/master/Ardynia.hex",
-                    "device": "Arduboy"
-                }
-            ],
-            "arduboy": ""
-        },
-		{
             "title": "CastleBoy",
             "description": "Castlevania",
 			"sourceUrl": "https://github.com/ArduboyCollection/CastleBoy",
@@ -92,7 +78,7 @@
         },
         {
             "title": "Flappy Birdie",
-            "description": "Clône de Flappy Bird, une vie et pas plus",
+            "description": "Clone de Flappy Bird, une vie et pas plus",
 			"sourceUrl": "https://community.arduboy.com/t/flappy-birdie-a-flappy-bird-clone/4840",
             "author": "GameExpress",
             "binaries": [
@@ -106,7 +92,7 @@
         },
         {
             "title": "Hollow Seeker",
-            "description": "Cours dans la grotte et arrête-toi à temps de te faire écraser",
+            "description": "Cours dans la grotte et arrête-toi à temps avant de te faire écraser",
 			"sourceUrl": "https://github.com/ArduboyCollection/ArduboyWorks",
             "author": "Obono",
             "binaries": [
@@ -162,7 +148,7 @@
         },
         {
             "title": "Lode Runner",
-            "description": "Collecte les trésors sans se faire attraper par les gardes",
+            "description": "Collecte les trésors sans te faire attraper par les gardes",
 			"sourceUrl": "https://community.arduboy.com/t/lode-runner-a-trilogy-in-four-parts/5385",
             "author": "Simon Holmes (filmote)",
             "binaries": [
@@ -245,61 +231,19 @@
             "arduboy": ""
         },
         {
-            "title": "Perrita",
-            "description": "Joue avec un petit chien dans ton jardin",
-			"sourceUrl": "https://github.com/PapaFede/Perrita",
-            "author": "PapaFede",
-            "binaries": [
-                {
-                    "title": "Perrita",
-                    "filename": "https://raw.githubusercontent.com/PedroGent/TopArduboyGames/master/Perrita.hex",
-                    "device": "Arduboy"
-                }
-            ],
-            "arduboy": ""
-        },
-        {
             "title": "Picovaders",
             "description": "Clone de Space Invaders",
 			"sourceUrl": "https://github.com/ArduboyCollection/picovaders",
             "author": "boochow",
             "binaries": [
                 {
-                    "title": "Perrita",
+                    "title": "Picovaders",
                     "filename": "https://raw.githubusercontent.com/PedroGent/TopArduboyGames/master/Picovaders.hex",
                     "device": "Arduboy"
                 }
             ],
             "arduboy": ""
         },
-		{
-            "title": "Pit",
-            "description": "Démontre ton agilité en évitant les blocs qui tombent du ciel",
-			"sourceUrl": "https://github.com/gawlk/pit",
-            "author": "gawlk",
-            "binaries": [
-                {
-                    "title": "Pit",
-                    "filename": "https://raw.githubusercontent.com/PedroGent/TopArduboyGames/master/Pit.hex",
-                    "device": "Arduboy"
-                }
-            ],
-            "arduboy": ""
-        },
-		{
-            "title": "Space Cab",
-            "description": "Taxi du futur",
-			"sourceUrl": "https://community.arduboy.com/t/space-cab-v1-0/6055",
-            "author": "Stephane C (vampirics) and Simon Holmes (filmote)",
-            "binaries": [
-                {
-                    "title": "Space Cab",
-                    "filename": "https://raw.githubusercontent.com/PedroGent/TopArduboyGames/master/SpaceCab.hex",
-                    "device": "Arduboy"
-                }
-            ],
-            "arduboy": ""
-        },				
 		{
             "title": "Super Thomas",
             "description": "Adaptation de Super Mario",
@@ -328,6 +272,20 @@
             ],
             "arduboy": ""
         },			
+        {
+            "title": "Shadow Runner",
+            "description": "Evite les obstacles en courant le plus longtemps possible",
+			"sourceUrl": "http://www.team-arg.com/shrun-manual.html",
+            "author": "Team-ARG",
+            "binaries": [
+                {
+                    "title": "Shadow Runner",
+                    "filename": "https://raw.githubusercontent.com/PedroGent/TopArduboyGames/master/ShadowRunner.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "arduboy": ""
+        },
 		{
             "title": "UFO-Race",
             "description": "Jeu de course de voiture vu du dessus",
@@ -336,7 +294,7 @@
             "binaries": [
                 {
                     "title": "UFO-Race",
-                    "filename": "https://raw.githubusercontent.com/PedroGent/TopArduboyGames/master/UFO-Race.hex",
+                    "filename": "https://raw.githubusercontent.com/PedroGent/TopArduboyGames/master/Ufo-Race.hex",
                     "device": "Arduboy"
                 }
             ],
@@ -350,43 +308,15 @@
             "binaries": [
                 {
                     "title": "Unicorn Dash",
-                    "filename": "https://raw.githubusercontent.com/PedroGent/TopArduboyGames/master/UnicornDashhex",
+                    "filename": "https://raw.githubusercontent.com/PedroGent/TopArduboyGames/master/UnicornDash.hex",
                     "device": "Arduboy"
                 }
             ],
             "arduboy": ""
         },			
         {
-            "title": "Shadow Runner",
-            "description": "Evite les obstacles en courrant le plus longtemps possible",
-			"sourceUrl": "http://www.team-arg.com/shrun-manual.html",
-            "author": "Team-ARG",
-            "binaries": [
-                {
-                    "title": "Shadow Runner",
-                    "filename": "https://raw.githubusercontent.com/PedroGent/TopArduboyGames/master/ShadowRunner.hex",
-                    "device": "Arduboy"
-                }
-            ],
-            "arduboy": ""
-        },
-        {
-            "title": "Tackle Box",
-            "description": "Jeu de pèche pour Toto le Pécheu",
-			"sourceUrl": "http://www.city41.games/tacklebox/",
-            "author": "city41",
-            "binaries": [
-                {
-                    "title": "Tackle Box",
-                    "filename": "https://raw.githubusercontent.com/PedroGent/TopArduboyGames/master/TackleBox.hex",
-                    "device": "Arduboy"
-                }
-            ],
-            "arduboy": ""
-        },
-        {
             "title": "VirusLPQ79",
-            "description": "Sauve tous les villageois en tuant les zombies pour la fin du niveau",
+            "description": "Sauve tous les villageois en tuant les zombies pour arriver à la fin du niveau",
 			"sourceUrl": "http://www.team-arg.com/vlqp-manual.html",
             "author": "Team-ARG",
             "binaries": [
@@ -399,5 +329,5 @@
             "arduboy": ""
         }
     ],
-    "items-length": "28"
+    "items-length": "23"
 }
