@@ -1,0 +1,403 @@
+{
+    "repository": "Top Games PedroGent",
+    "api-version": "1.0",
+    "email": "",
+    "maintainer": "PedroGent",
+    "website": "https://github.com/PedroGent",
+    "items": [
+		{
+            "title": "1943",
+            "description": "Jeu d'avion de guerre",
+			"sourceUrl": "https://community.arduboy.com/t/1943-the-battle-of-midway-v1-0-0-released/4101",
+            "author": "Simon Holmes (filmote)",
+            "binaries": [
+                {
+                    "title": "1943",
+                    "filename": "https://raw.githubusercontent.com/PedroGent/TopArduboyGames/master/1943.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "arduboy": ""
+        },
+		{
+            "title": "Ard-Drivin",
+            "description": "Jeu de course de voiture",
+			"sourceUrl": "https://community.arduboy.com/t/ard-drivin-is-coming/3178",
+            "author": "Rem and LP",
+            "binaries": [
+                {
+                    "title": "Ard-Drivin",
+                    "filename": "https://raw.githubusercontent.com/PedroGent/TopArduboyGames/master/Ard-Drivin.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "arduboy": ""
+        },
+		{
+            "title": "Ardynia",
+            "description": "Jeu à la Zelda",
+			"sourceUrl": "http://www.city41.games/ardynia/",
+            "author": "city41",
+            "binaries": [
+                {
+                    "title": "Ardynia",
+                    "filename": "https://raw.githubusercontent.com/PedroGent/TopArduboyGames/master/Ardynia.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "arduboy": ""
+        },
+		{
+            "title": "CastleBoy",
+            "description": "Castlevania",
+			"sourceUrl": "https://github.com/ArduboyCollection/CastleBoy",
+            "author": "jlauener",
+            "binaries": [
+                {
+                    "title": "CastleBoy",
+                    "filename": "https://raw.githubusercontent.com/PedroGent/TopArduboyGames/master/CastleBoy.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "arduboy": ""
+        },
+		
+        {
+            "title": "Circuit Dude",
+            "description": "Casse-tête avec un petit robot",
+			"sourceUrl": "http://crait.net/",
+            "author": "Crait",
+            "binaries": [
+                {
+                    "title": "Circuit Dude",
+                    "filename": "https://raw.githubusercontent.com/PedroGent/TopArduboyGames/master/CircuitDude.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "arduboy": ""
+        },
+        {
+            "title": "CrazyKart",
+            "description": "Jeu de course de voiture inspiré de Mario Kart",
+			"sourceUrl": "https://github.com/ArduboyCollection/Arduboy-CrazyKart",
+            "author": "Alberto S. Naranjo Galet (Veilkrand)",
+            "binaries": [
+                {
+                    "title": "CrazyKart",
+                    "filename": "https://raw.githubusercontent.com/PedroGent/TopArduboyGames/master/CrazyKart.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "arduboy": ""
+        },
+        {
+            "title": "Flappy Birdie",
+            "description": "Clône de Flappy Bird, une vie et pas plus",
+			"sourceUrl": "https://community.arduboy.com/t/flappy-birdie-a-flappy-bird-clone/4840",
+            "author": "GameExpress",
+            "binaries": [
+                {
+                    "title": "Flappy Birdie",
+                    "filename": "https://raw.githubusercontent.com/PedroGent/TopArduboyGames/master/FlappyBird.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "arduboy": ""
+        },
+        {
+            "title": "Hollow Seeker",
+            "description": "Cours dans la grotte et arrête-toi à temps de te faire écraser",
+			"sourceUrl": "https://github.com/ArduboyCollection/ArduboyWorks",
+            "author": "Obono",
+            "binaries": [
+                {
+                    "title": "Hollow Seeker",
+                    "filename": "https://raw.githubusercontent.com/PedroGent/TopArduboyGames/master/HollowSeeker.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "arduboy": ""
+        },
+        {
+            "title": "Hopper",
+            "description": "Rebondis sur chaque plateforme pour aller de plus en plus haut",
+			"sourceUrl": "https://github.com/ArduboyCollection/ArduboyWorks",
+            "author": "Obono",
+            "binaries": [
+                {
+                    "title": "Hopper",
+                    "filename": "https://raw.githubusercontent.com/PedroGent/TopArduboyGames/master/Hopper.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "arduboy": ""
+        },
+        {
+            "title": "Humanity Revenge DC",
+            "description": "Pilote ton vaisseau spatial pour détruire les ennemis",
+			"sourceUrl": "https://community.arduboy.com/t/humanity-revenge-is-back-humanity-revenge-directors-cut/4296",
+            "author": "giangregorioc",
+            "binaries": [
+                {
+                    "title": "Humanity Revenge DC",
+                    "filename": "https://raw.githubusercontent.com/PedroGent/TopArduboyGames/master/HumanityRevengeDC.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "arduboy": ""
+        },
+        {
+            "title": "LATE",
+            "description": "3 mini-jeux dont un Tetris",
+			"sourceUrl": "https://github.com/core1024/LATE",
+            "author": "Vladimir Borisov",
+            "binaries": [
+                {
+                    "title": "LATE",
+                    "filename": "https://raw.githubusercontent.com/PedroGent/TopArduboyGames/master/LATE.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "arduboy": ""
+        },
+        {
+            "title": "Lode Runner",
+            "description": "Collecte les trésors sans se faire attraper par les gardes",
+			"sourceUrl": "https://community.arduboy.com/t/lode-runner-a-trilogy-in-four-parts/5385",
+            "author": "Simon Holmes (filmote)",
+            "binaries": [
+                {
+                    "title": "Lode Runner",
+                    "filename": "https://raw.githubusercontent.com/PedroGent/TopArduboyGames/master/LodeRunner.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "arduboy": ""
+        },
+        {
+            "title": "Midnight Wild",
+            "description": "Combat tes ennemis avec ton fouet dans ce jeu de western",
+			"sourceUrl": "http://crait.net/",
+            "author": "Crait",
+            "binaries": [
+                {
+                    "title": "Midnight Wild",
+                    "filename": "https://raw.githubusercontent.com/GlitchJomo/FavAduboyGames/master/MidnightWild.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "arduboy": ""
+        },
+        {
+            "title": "Mystic Balloons",
+            "description": "Super jeu de plateforme",
+			"sourceUrl": "http://www.team-arg.com/mybl-manual.html",
+            "author": "Team-ARG",
+            "binaries": [
+                {
+                    "title": "Mystic Balloons",
+                    "filename": "https://raw.githubusercontent.com/PedroGent/TopArduboyGames/master/MysticBalloons.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "arduboy": ""
+        },
+        {
+            "title": "Omega Horizon",
+            "description": "Clone de Metroid sur Arduboy",
+			"sourceUrl": "http://neoretro.games/#game_3",
+            "author": "Neo Retro",
+            "binaries": [
+                {
+                    "title": "Omega Horizon",
+                    "filename": "https://raw.githubusercontent.com/PedroGent/TopArduboyGames/master/OmegaHorizon.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "arduboy": ""
+        },
+        {
+            "title": "Paqman",
+            "description": "Pacman",
+			"sourceUrl": "http://gamebuino.com/forum/viewtopic.php?f=17&t=963",
+            "author": "yoda",
+            "binaries": [
+                {
+                    "title": "Paqman",
+                    "filename": "https://raw.githubusercontent.com/PedroGent/TopArduboyGames/master/Pacman.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "arduboy": ""
+        },
+        {
+            "title": "PAC-Tastic",
+            "description": "Variante de Pacman",
+			"sourceUrl": "https://community.arduboy.com/t/pac-tastic-release-arduboy-format/5654",
+            "author": "Dragula96",
+            "binaries": [
+                {
+                    "title": "Pac-Tastic",
+                    "filename": "https://raw.githubusercontent.com/PedroGent/TopArduboyGames/master/Pactastic.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "arduboy": ""
+        },
+        {
+            "title": "Perrita",
+            "description": "Joue avec un petit chien dans ton jardin",
+			"sourceUrl": "https://github.com/PapaFede/Perrita",
+            "author": "PapaFede",
+            "binaries": [
+                {
+                    "title": "Perrita",
+                    "filename": "https://raw.githubusercontent.com/PedroGent/TopArduboyGames/master/Perrita.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "arduboy": ""
+        },
+        {
+            "title": "Picovaders",
+            "description": "Clone de Space Invaders",
+			"sourceUrl": "https://github.com/ArduboyCollection/picovaders",
+            "author": "boochow",
+            "binaries": [
+                {
+                    "title": "Perrita",
+                    "filename": "https://raw.githubusercontent.com/PedroGent/TopArduboyGames/master/Picovaders.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "arduboy": ""
+        },
+		{
+            "title": "Pit",
+            "description": "Démontre ton agilité en évitant les blocs qui tombent du ciel",
+			"sourceUrl": "https://github.com/gawlk/pit",
+            "author": "gawlk",
+            "binaries": [
+                {
+                    "title": "Pit",
+                    "filename": "https://raw.githubusercontent.com/PedroGent/TopArduboyGames/master/Pit.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "arduboy": ""
+        },
+		{
+            "title": "Space Cab",
+            "description": "Taxi du futur",
+			"sourceUrl": "https://community.arduboy.com/t/space-cab-v1-0/6055",
+            "author": "Stephane C (vampirics) and Simon Holmes (filmote)",
+            "binaries": [
+                {
+                    "title": "Space Cab",
+                    "filename": "https://raw.githubusercontent.com/PedroGent/TopArduboyGames/master/SpaceCab.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "arduboy": ""
+        },				
+		{
+            "title": "Super Thomas",
+            "description": "Adaptation de Super Mario",
+			"sourceUrl": "https://github.com/arduboychris/Squario",
+            "author": "bateske",
+            "binaries": [
+                {
+                    "title": "Super Thomas",
+                    "filename": "https://raw.githubusercontent.com/PedroGent/TopArduboyGames/master/SuperThomas.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "arduboy": ""
+        },
+		{
+            "title": "Tetris",
+            "description": "Adaptation de Tetris",
+			"sourceUrl": "http://gadgetr.seesaa.net/article/tris.html",
+            "author": "Yuki",
+            "binaries": [
+                {
+                    "title": "Tetris",
+                    "filename": "https://raw.githubusercontent.com/PedroGent/TopArduboyGames/master/Tetris.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "arduboy": ""
+        },			
+		{
+            "title": "UFO-Race",
+            "description": "Jeu de course de voiture vu du dessus",
+			"sourceUrl": "http://gamebuino.com/forum/viewtopic.php?f=17&t=972",
+            "author": "Rodot",
+            "binaries": [
+                {
+                    "title": "UFO-Race",
+                    "filename": "https://raw.githubusercontent.com/PedroGent/TopArduboyGames/master/UFO-Race.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "arduboy": ""
+        },			
+		{
+            "title": "Unicorn Dash",
+            "description": "Galope avec ta licorne le plus longtemps possible tout en évitant les obstacles",
+			"sourceUrl": "https://community.arduboy.com/t/unicorn-dash-a-simple-endless-runner/5121",
+            "author": "Kirill Korolkov",
+            "binaries": [
+                {
+                    "title": "Unicorn Dash",
+                    "filename": "https://raw.githubusercontent.com/PedroGent/TopArduboyGames/master/UnicornDashhex",
+                    "device": "Arduboy"
+                }
+            ],
+            "arduboy": ""
+        },			
+        {
+            "title": "Shadow Runner",
+            "description": "Evite les obstacles en courrant le plus longtemps possible",
+			"sourceUrl": "http://www.team-arg.com/shrun-manual.html",
+            "author": "Team-ARG",
+            "binaries": [
+                {
+                    "title": "Shadow Runner",
+                    "filename": "https://raw.githubusercontent.com/PedroGent/TopArduboyGames/master/ShadowRunner.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "arduboy": ""
+        },
+        {
+            "title": "Tackle Box",
+            "description": "Jeu de pèche pour Toto le Pécheu",
+			"sourceUrl": "http://www.city41.games/tacklebox/",
+            "author": "city41",
+            "binaries": [
+                {
+                    "title": "Tackle Box",
+                    "filename": "https://raw.githubusercontent.com/PedroGent/TopArduboyGames/master/TackleBox.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "arduboy": ""
+        },
+        {
+            "title": "VirusLPQ79",
+            "description": "Sauve tous les villageois en tuant les zombies pour la fin du niveau",
+			"sourceUrl": "http://www.team-arg.com/vlqp-manual.html",
+            "author": "Team-ARG",
+            "binaries": [
+                {
+                    "title": "VirusLPQ79",
+                    "filename": "https://raw.githubusercontent.com/PedroGent/TopArduboyGames/master/VirusLPQ79.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "arduboy": ""
+        }
+    ],
+    "items-length": "28"
+}
