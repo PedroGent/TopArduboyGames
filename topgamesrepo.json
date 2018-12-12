@@ -8,6 +8,7 @@
 		{
             "title": "1943",
             "description": "Jeu d'avion de guerre",
+			"url": "https://community.arduboy.com/t/1943-the-battle-of-midway-v1-0-0-released/4101",
 			"sourceUrl": "https://community.arduboy.com/t/1943-the-battle-of-midway-v1-0-0-released/4101",
             "author": "Simon Holmes (filmote)",
             "binaries": [
@@ -22,6 +23,7 @@
 		{
             "title": "Ard-Drivin",
             "description": "Jeu de course de voiture",
+			"url": "https://community.arduboy.com/t/ard-drivin-is-coming/3178",
 			"sourceUrl": "https://community.arduboy.com/t/ard-drivin-is-coming/3178",
             "author": "Rem and LP",
             "binaries": [
@@ -36,6 +38,7 @@
 		{
             "title": "CastleBoy",
             "description": "Castlevania",
+			"url": "https://github.com/ArduboyCollection/CastleBoy",
 			"sourceUrl": "https://github.com/ArduboyCollection/CastleBoy",
             "author": "jlauener",
             "binaries": [
@@ -51,6 +54,7 @@
         {
             "title": "Circuit Dude",
             "description": "Casse-tête avec un petit robot",
+			"url": "http://crait.net/",
 			"sourceUrl": "http://crait.net/",
             "author": "Crait",
             "binaries": [
@@ -65,6 +69,7 @@
         {
             "title": "CrazyKart",
             "description": "Jeu de course de voiture inspiré de Mario Kart",
+			"url": "https://github.com/ArduboyCollection/Arduboy-CrazyKart",
 			"sourceUrl": "https://github.com/ArduboyCollection/Arduboy-CrazyKart",
             "author": "Alberto S. Naranjo Galet (Veilkrand)",
             "binaries": [
@@ -79,6 +84,7 @@
         {
             "title": "Flappy Birdie",
             "description": "Clone de Flappy Bird, une vie et pas plus",
+			"url": "https://community.arduboy.com/t/flappy-birdie-a-flappy-bird-clone/4840",
 			"sourceUrl": "https://community.arduboy.com/t/flappy-birdie-a-flappy-bird-clone/4840",
             "author": "GameExpress",
             "binaries": [
@@ -94,6 +100,7 @@
             "title": "Hollow Seeker",
             "description": "Cours dans la grotte et arrête-toi à temps avant de te faire écraser",
 			"sourceUrl": "https://github.com/ArduboyCollection/ArduboyWorks",
+			"sourceUrl": "https://github.com/ArduboyCollection/ArduboyWorks",
             "author": "Obono",
             "binaries": [
                 {
@@ -107,6 +114,7 @@
         {
             "title": "Hopper",
             "description": "Rebondis sur chaque plateforme pour aller de plus en plus haut",
+			"url": "https://github.com/ArduboyCollection/ArduboyWorks",
 			"sourceUrl": "https://github.com/ArduboyCollection/ArduboyWorks",
             "author": "Obono",
             "binaries": [
@@ -121,6 +129,7 @@
         {
             "title": "Humanity Revenge DC",
             "description": "Pilote ton vaisseau spatial pour détruire les ennemis",
+			"url": "https://community.arduboy.com/t/humanity-revenge-is-back-humanity-revenge-directors-cut/4296",
 			"sourceUrl": "https://community.arduboy.com/t/humanity-revenge-is-back-humanity-revenge-directors-cut/4296",
             "author": "giangregorioc",
             "binaries": [
@@ -135,6 +144,7 @@
         {
             "title": "LATE",
             "description": "3 mini-jeux dont un Tetris",
+			"url": "https://github.com/core1024/LATE",
 			"sourceUrl": "https://github.com/core1024/LATE",
             "author": "Vladimir Borisov",
             "binaries": [
@@ -149,6 +159,7 @@
         {
             "title": "Lode Runner",
             "description": "Collecte les trésors sans te faire attraper par les gardes",
+			"url": "https://community.arduboy.com/t/lode-runner-a-trilogy-in-four-parts/5385",
 			"sourceUrl": "https://community.arduboy.com/t/lode-runner-a-trilogy-in-four-parts/5385",
             "author": "Simon Holmes (filmote)",
             "binaries": [
@@ -163,6 +174,7 @@
         {
             "title": "Midnight Wild",
             "description": "Combats tes ennemis avec ton fouet dans ce jeu de western",
+			"url": "http://crait.net/",
 			"sourceUrl": "http://crait.net/",
             "author": "Crait",
             "binaries": [
@@ -177,6 +189,7 @@
         {
             "title": "Mystic Balloons",
             "description": "Super jeu de plateforme",
+			"url": "http://www.team-arg.com/mybl-manual.html",
 			"sourceUrl": "http://www.team-arg.com/mybl-manual.html",
             "author": "Team-ARG",
             "binaries": [
@@ -191,6 +204,7 @@
         {
             "title": "Omega Horizon",
             "description": "Clone de Metroid sur Arduboy",
+			"url": "http://neoretro.games/#game_3",
 			"sourceUrl": "http://neoretro.games/#game_3",
             "author": "Neo Retro",
             "binaries": [
@@ -205,6 +219,7 @@
         {
             "title": "Paqman",
             "description": "Pacman",
+			"url": "http://gamebuino.com/forum/viewtopic.php?f=17&t=963",
 			"sourceUrl": "http://gamebuino.com/forum/viewtopic.php?f=17&t=963",
             "author": "yoda",
             "binaries": [
@@ -219,6 +234,7 @@
         {
             "title": "PAC-Tastic",
             "description": "Variante de Pacman",
+			"url": "https://community.arduboy.com/t/pac-tastic-release-arduboy-format/5654",
 			"sourceUrl": "https://community.arduboy.com/t/pac-tastic-release-arduboy-format/5654",
             "author": "Dragula96",
             "binaries": [
@@ -233,6 +249,7 @@
         {
             "title": "Picovaders",
             "description": "Clone de Space Invaders",
+			"url": "https://github.com/ArduboyCollection/picovaders",
 			"sourceUrl": "https://github.com/ArduboyCollection/picovaders",
             "author": "boochow",
             "binaries": [
@@ -247,6 +264,7 @@
 		{
             "title": "Super Thomas",
             "description": "Adaptation de Super Mario",
+			"url": "https://github.com/arduboychris/Squario",
 			"sourceUrl": "https://github.com/arduboychris/Squario",
             "author": "bateske",
             "binaries": [
@@ -261,6 +279,7 @@
 		{
             "title": "Tetris",
             "description": "Adaptation de Tetris",
+			"url": "http://gadgetr.seesaa.net/article/tris.html",
 			"sourceUrl": "http://gadgetr.seesaa.net/article/tris.html",
             "author": "Yuki",
             "binaries": [
@@ -275,6 +294,7 @@
         {
             "title": "Shadow Runner",
             "description": "Evite les obstacles en courant le plus longtemps possible",
+			"url": "http://www.team-arg.com/shrun-manual.html",
 			"sourceUrl": "http://www.team-arg.com/shrun-manual.html",
             "author": "Team-ARG",
             "binaries": [
@@ -289,6 +309,7 @@
 		{
             "title": "UFO-Race",
             "description": "Jeu de course de voiture vu du dessus",
+			"url": "http://gamebuino.com/forum/viewtopic.php?f=17&t=972",
 			"sourceUrl": "http://gamebuino.com/forum/viewtopic.php?f=17&t=972",
             "author": "Rodot",
             "binaries": [
@@ -303,6 +324,7 @@
 		{
             "title": "Unicorn Dash",
             "description": "Galope avec ta licorne le plus longtemps possible tout en évitant les obstacles",
+			"url": "https://community.arduboy.com/t/unicorn-dash-a-simple-endless-runner/5121",
 			"sourceUrl": "https://community.arduboy.com/t/unicorn-dash-a-simple-endless-runner/5121",
             "author": "Kirill Korolkov",
             "binaries": [
@@ -317,6 +339,7 @@
         {
             "title": "VirusLPQ79",
             "description": "Sauve tous les villageois en tuant les zombies pour arriver à la fin du niveau",
+			"url": "http://www.team-arg.com/vlqp-manual.html",
 			"sourceUrl": "http://www.team-arg.com/vlqp-manual.html",
             "author": "Team-ARG",
             "binaries": [
