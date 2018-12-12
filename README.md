@@ -1,4 +1,4 @@
 # TopArduboyGames
 List of my favorite Arduboy games
 
-https://github.com/PedroGent/TopArduboyGames/blob/master/topgamesrepo.json
+https://raw.githubusercontent.com/PedroGent/TopArduboyGames/master/topgamesrepo.json
