@@ -1,5 +1,5 @@
 {
-    "repository": "Top Games PedroGent",
+    "repository": "Liste de jeux pour Thomas",
     "api-version": "1.0",
     "email": "",
     "maintainer": "PedroGent",
@@ -11,6 +11,7 @@
 			"url": "https://community.arduboy.com/t/1943-the-battle-of-midway-v1-0-0-released/4101",
 			"sourceUrl": "https://community.arduboy.com/t/1943-the-battle-of-midway-v1-0-0-released/4101",
             "author": "Simon Holmes (filmote)",
+	    "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2F1943%2Fa91ffeebd4d5acbc6ff4546c4e027a1c6f6a09dd.png",
             "binaries": [
                 {
                     "title": "1943",
@@ -26,6 +27,7 @@
 			"url": "https://community.arduboy.com/t/ard-drivin-is-coming/3178",
 			"sourceUrl": "https://community.arduboy.com/t/ard-drivin-is-coming/3178",
             "author": "Rem and LP",
+	    "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Racing%2FArd-Drivin%2Fbanner.png",
             "binaries": [
                 {
                     "title": "Ard-Drivin",
@@ -41,6 +43,7 @@
 			"url": "https://github.com/ArduboyCollection/CastleBoy",
 			"sourceUrl": "https://github.com/ArduboyCollection/CastleBoy",
             "author": "jlauener",
+	    "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Platformer%2FCastleBoy%2FCapture.PNG",
             "binaries": [
                 {
                     "title": "CastleBoy",
@@ -72,6 +75,7 @@
 			"url": "https://github.com/ArduboyCollection/Arduboy-CrazyKart",
 			"sourceUrl": "https://github.com/ArduboyCollection/Arduboy-CrazyKart",
             "author": "Alberto S. Naranjo Galet (Veilkrand)",
+	    "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Racing%2FCrazyKart%2FCapture.PNG",
             "binaries": [
                 {
                     "title": "CrazyKart",
@@ -87,6 +91,7 @@
 			"url": "https://community.arduboy.com/t/flappy-birdie-a-flappy-bird-clone/4840",
 			"sourceUrl": "https://community.arduboy.com/t/flappy-birdie-a-flappy-bird-clone/4840",
             "author": "GameExpress",
+	    "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FFlappy_Bird%2F9e3b82241fd01be38587821b1a248ef164e4f358.png",
             "binaries": [
                 {
                     "title": "Flappy Birdie",
@@ -102,6 +107,7 @@
 			"url": "https://github.com/ArduboyCollection/ArduboyWorks",
 			"sourceUrl": "https://github.com/ArduboyCollection/ArduboyWorks",
             "author": "Obono",
+	    "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FHollow%20Seeker%2Fbanner.png",
             "binaries": [
                 {
                     "title": "Hollow Seeker",
@@ -113,10 +119,11 @@
         },
         {
             "title": "Hopper",
-            "description": "Rebondis sur chaque plateforme pour aller de plus en plus haut",
+            "description": "Rebondis sur chaque plateforme pour aller de plus en plus haut. Chaque erreur est fatale !",
 			"url": "https://github.com/ArduboyCollection/ArduboyWorks",
 			"sourceUrl": "https://github.com/ArduboyCollection/ArduboyWorks",
             "author": "Obono",
+	    "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Action%2FHopper%2Fimage.png",
             "binaries": [
                 {
                     "title": "Hopper",
@@ -132,6 +139,7 @@
 			"url": "https://community.arduboy.com/t/humanity-revenge-is-back-humanity-revenge-directors-cut/4296",
 			"sourceUrl": "https://community.arduboy.com/t/humanity-revenge-is-back-humanity-revenge-directors-cut/4296",
             "author": "giangregorioc",
+	    "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Shooter%2FHumanity%20Revenge%20DC%2F34d5d27a89c0aad5d9c8e4764751261dedfd41d3.png",
             "binaries": [
                 {
                     "title": "Humanity Revenge DC",
@@ -147,6 +155,7 @@
 			"url": "https://github.com/core1024/LATE",
 			"sourceUrl": "https://github.com/core1024/LATE",
             "author": "Vladimir Borisov",
+	    "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FLATE%2FScreens.png",
             "binaries": [
                 {
                     "title": "LATE",
@@ -162,6 +171,7 @@
 			"url": "https://community.arduboy.com/t/lode-runner-a-trilogy-in-four-parts/5385",
 			"sourceUrl": "https://community.arduboy.com/t/lode-runner-a-trilogy-in-four-parts/5385",
             "author": "Simon Holmes (filmote)",
+	    "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FLode%20Runner%20-%20Levels%20001%20to%20040%2FLodeRunner.gif",
             "binaries": [
                 {
                     "title": "Lode Runner",
@@ -207,6 +217,7 @@
 			"url": "http://neoretro.games/#game_3",
 			"sourceUrl": "http://neoretro.games/#game_3",
             "author": "Neo Retro",
+	    "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Platformer%2FOmega%20Horizon%2F562076abd2a645b2c1b92c879d0a4bc2cb05a4cc_1_350x96.png",
             "binaries": [
                 {
                     "title": "Omega Horizon",
@@ -222,10 +233,11 @@
 			"url": "http://gamebuino.com/forum/viewtopic.php?f=17&t=963",
 			"sourceUrl": "http://gamebuino.com/forum/viewtopic.php?f=17&t=963",
             "author": "yoda",
+	    "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FPaqman%2Fgamebuino-paqman.png",
             "binaries": [
                 {
                     "title": "Paqman",
-                    "filename": "https://raw.githubusercontent.com/PedroGent/TopArduboyGames/master/Pacman.hex",
+                    "filename": "https://raw.githubusercontent.com/PedroGent/TopArduboyGames/master/Paqman.hex",
                     "device": "Arduboy"
                 }
             ],
@@ -237,6 +249,7 @@
 			"url": "https://community.arduboy.com/t/pac-tastic-release-arduboy-format/5654",
 			"sourceUrl": "https://community.arduboy.com/t/pac-tastic-release-arduboy-format/5654",
             "author": "Dragula96",
+	    "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FPAC-Tastic%2Fbanner.png",
             "binaries": [
                 {
                     "title": "Pac-Tastic",
@@ -252,6 +265,7 @@
 			"url": "https://github.com/ArduboyCollection/picovaders",
 			"sourceUrl": "https://github.com/ArduboyCollection/picovaders",
             "author": "boochow",
+	    "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FPicovaders%2F5e39fae8802e70ce55a8c3e65ebcd2dd0e9a59f1.png",
             "binaries": [
                 {
                     "title": "Picovaders",
@@ -263,7 +277,7 @@
         },
 		{
             "title": "Super Thomas",
-            "description": "Adaptation de Super Mario",
+	    "description": "Adaptation de Super Mario",
 			"url": "https://github.com/arduboychris/Squario",
 			"sourceUrl": "https://github.com/arduboychris/Squario",
             "author": "bateske",
@@ -277,15 +291,16 @@
             "arduboy": ""
         },
 		{
-            "title": "Tetris",
+            "title": "Tris",
             "description": "Adaptation de Tetris",
 			"url": "http://gadgetr.seesaa.net/article/tris.html",
 			"sourceUrl": "http://gadgetr.seesaa.net/article/tris.html",
             "author": "Yuki",
+	    "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Puzzle%2FTris%2FCapture.PNG",
             "binaries": [
                 {
                     "title": "Tetris",
-                    "filename": "https://raw.githubusercontent.com/PedroGent/TopArduboyGames/master/Tetris.hex",
+                    "filename": "https://raw.githubusercontent.com/PedroGent/TopArduboyGames/master/Tris.hex",
                     "device": "Arduboy"
                 }
             ],
@@ -312,6 +327,7 @@
 			"url": "http://gamebuino.com/forum/viewtopic.php?f=17&t=972",
 			"sourceUrl": "http://gamebuino.com/forum/viewtopic.php?f=17&t=972",
             "author": "Rodot",
+	    "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Racing%2FUfo-Race%2F386-103%2011-05-36.png",
             "binaries": [
                 {
                     "title": "UFO-Race",
@@ -327,6 +343,7 @@
 			"url": "https://community.arduboy.com/t/unicorn-dash-a-simple-endless-runner/5121",
 			"sourceUrl": "https://community.arduboy.com/t/unicorn-dash-a-simple-endless-runner/5121",
             "author": "Kirill Korolkov",
+	    "banner": "https:\/\/raw.githubusercontent.com\/eried\/ArduboyCollection\/master\/Arcade%2FUnicorn%20Dash%2FicGV7X.png",
             "binaries": [
                 {
                     "title": "Unicorn Dash",
