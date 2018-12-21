@@ -37,6 +37,21 @@
             ],
             "arduboy": ""
         },
+	 	{
+            "title": "Ardynia",
+            "description": "Très bon jeu à la Zelda à l'ancienne. Attention ! Pour installer d'autres jeux après celui-là, tu dois appuuyer sur le bouton reset",
+			"url": "http://www.city41.games/ardynia/",
+			"sourceUrl": "http://www.city41.games/ardynia/",
+            "author": "city41",
+            "binaries": [
+                {
+                    "title": "Ardynia",
+                    "filename": "https://raw.githubusercontent.com/PedroGent/TopArduboyGames/master/Ardynia.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "arduboy": ""
+        },
 		{
             "title": "CastleBoy",
             "description": "Castlevania",
@@ -316,6 +331,22 @@
                 {
                     "title": "Shadow Runner",
                     "filename": "https://raw.githubusercontent.com/PedroGent/TopArduboyGames/master/ShadowRunner.hex",
+                    "device": "Arduboy"
+                }
+            ],
+            "arduboy": ""
+        },
+	    
+	 	 {
+            "title": "TackleBox",
+            "description": "Jeu de pêche pour Toto Le Pêcheu ! Attention ! Pour installer d'autres jeux après celui-là, tu dois appuuyer sur le bouton reset",
+			"url": "http://www.city41.games/tacklebox/",
+			"sourceUrl": "http://www.city41.games/tacklebox/",
+            "author": "city41",
+            "binaries": [
+                {
+                    "title": "TackleBox",
+                    "filename": "https://raw.githubusercontent.com/PedroGent/TopArduboyGames/master/TackleBox.hex",
                     "device": "Arduboy"
                 }
             ],
